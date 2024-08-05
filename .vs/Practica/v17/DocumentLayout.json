@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maryl\\source\\repos\\Practica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA81448-350A-4778-BE4F-73F86A172759}|Practica\\Practica.csproj|c:\\users\\maryl\\source\\repos\\practica\\practica\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDA81448-350A-4778-BE4F-73F86A172759}|Practica\\Practica.csproj|solutionrelative:practica\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA81448-350A-4778-BE4F-73F86A172759}|Practica\\Practica.csproj|c:\\users\\maryl\\source\\repos\\practica\\practica\\views\\access\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDA81448-350A-4778-BE4F-73F86A172759}|Practica\\Practica.csproj|solutionrelative:practica\\views\\access\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA81448-350A-4778-BE4F-73F86A172759}|Practica\\Practica.csproj|c:\\users\\maryl\\source\\repos\\practica\\practica\\views\\access\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDA81448-350A-4778-BE4F-73F86A172759}|Practica\\Practica.csproj|solutionrelative:practica\\views\\access\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA81448-350A-4778-BE4F-73F86A172759}|Practica\\Practica.csproj|c:\\users\\maryl\\source\\repos\\practica\\practica\\models\\login\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDA81448-350A-4778-BE4F-73F86A172759}|Practica\\Practica.csproj|solutionrelative:practica\\models\\login\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 234,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\maryl\\source\\repos\\Practica\\Practica\\Views\\Access\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practica\\Views\\Access\\Index.cshtml",
+              "ToolTip": "C:\\Users\\maryl\\source\\repos\\Practica\\Practica\\Views\\Access\\Index.cshtml",
+              "RelativeToolTip": "Practica\\Views\\Access\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T05:15:46.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\maryl\\source\\repos\\Practica\\Practica\\Models\\Login\\Usuario.cs",
+              "RelativeDocumentMoniker": "Practica\\Models\\Login\\Usuario.cs",
+              "ToolTip": "C:\\Users\\maryl\\source\\repos\\Practica\\Practica\\Models\\Login\\Usuario.cs",
+              "RelativeToolTip": "Practica\\Models\\Login\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T03:56:19.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccessController.cs",
+              "DocumentMoniker": "C:\\Users\\maryl\\source\\repos\\Practica\\Practica\\Controllers\\AccessController.cs",
+              "RelativeDocumentMoniker": "Practica\\Controllers\\AccessController.cs",
+              "ToolTip": "C:\\Users\\maryl\\source\\repos\\Practica\\Practica\\Controllers\\AccessController.cs",
+              "RelativeToolTip": "Practica\\Controllers\\AccessController.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAawGgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T04:20:23.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\maryl\\source\\repos\\Practica\\Practica\\Views\\Access\\Registrar.cshtml",
+              "RelativeDocumentMoniker": "Practica\\Views\\Access\\Registrar.cshtml",
+              "ToolTip": "C:\\Users\\maryl\\source\\repos\\Practica\\Practica\\Views\\Access\\Registrar.cshtml",
+              "RelativeToolTip": "Practica\\Views\\Access\\Registrar.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwCcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T03:48:32.278Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
